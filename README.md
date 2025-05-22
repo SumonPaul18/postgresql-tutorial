@@ -139,9 +139,4 @@ If you’d like to improve this tutorial or add more project ideas, feel free to
 **Made with ❤️ by Suman Pal**
 
 ---
-   - `docker-compose.yml`
-   - `app.py` CRUD API
-   - `install.md` ইনস্টলেশন গাইড
 
-আপনি চাইলে আমি পরবর্তী ধাপে `docker/` ও `flask-postgres/` এর ভিতরের ফাইলগুলো লিখে দিই। জানাবেন কি করব?
-```
